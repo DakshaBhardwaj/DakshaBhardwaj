@@ -33,13 +33,6 @@ I'm a developer who enjoys working on diverse projects spanning from agricultura
 - Algorithm visualization and educational tools
 - Open source contributions
 
-## GitHub Stats
-
-- **Repositories**: 7
-- **Projects**: 0
-- **Packages**: 0
-- **Stars**: 0
-
 ## Let's Connect
 
 Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on any interesting projects!
